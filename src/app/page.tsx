@@ -61,20 +61,20 @@ export default function Home() {
       <Navbar />
       
       {/* Main Content */}
-      <main className="flex-1">
+      {/* <main className="flex-1"> */}
         {/* Hero Section */}
-       <HeroSection />
+       {/* <HeroSection /> */}
 
         {/* Featured Posts Section */}
-        <FeaturedPosts />
+        {/* <FeaturedPosts /> */}
 
         {/* Testimonials Section */}
-        <Testimonials />
+        {/* <Testimonials /> */}
         {/* CTA Section */}
-        <CtaSection />
-      </main>
+        {/* <CtaSection /> */}
+      {/* </main> */}
 
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }
