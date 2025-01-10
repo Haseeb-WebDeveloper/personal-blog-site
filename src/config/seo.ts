@@ -2,7 +2,7 @@ export const siteConfig = {
   name: "Gaming Master Hub",
   description: "Discover insightful articles on technology, programming, and digital innovation.",
   url: "https://gamingmasterhub",
-  ogImage: "/og-image.jpg",
+  ogImage: "/logo.jpg",
   links: {
     instagram: "https://www.instagram.com/gamingmasterhub/",
     youtube: "https://www.youtube.com/@gamingmasterhub",
